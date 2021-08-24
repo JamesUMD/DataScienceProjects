@@ -1,0 +1,1 @@
+This Git Hub repository is a resemblance of a lot of machine learning and deep learning algorithms I have use on various job projects. Feel free to take a look :) 
